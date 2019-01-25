@@ -21,7 +21,7 @@ commands:
     description: Teleports to given target
   tphere:
     permission: masuiteteleports.teleport.force.here
-    aliases: [teleporthere]
+    aliases: [teleporthere, s]
     description: Teleports target to sender
   tpall:
     permission: masuiteteleports.teleport.force.all
